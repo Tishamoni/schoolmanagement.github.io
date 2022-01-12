@@ -1,0 +1,19 @@
+*{
+  margin:0;
+  padding:0px;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 1000;
+}
+/* .disable{
+  margin-top:10px ;
+  max-width: 30%;
+  display: block;
+
+}
+.enable{
+  margin-top:10px ;
+  max-width: 30%;
+  display: block;
+} */
+          /* // style={{ marginTop: '10px', maxWidth: '30%', display: 'block' }} */
